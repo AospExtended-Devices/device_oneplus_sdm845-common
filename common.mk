@@ -120,9 +120,6 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     telephony-ext
 
-PRODUCT_BOOT_JARS += \
-    telephony-ext
-
 # tri-state-key
 PRODUCT_PACKAGES += \
     KeyHandler \
